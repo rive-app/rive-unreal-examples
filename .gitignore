@@ -83,3 +83,7 @@ shadertoolsconfig.json
 .DS_Store
 Releases/
 MacBuild/
+
+
+# Starter Content
+Content/StarterContent/
