@@ -101,9 +101,9 @@ Initialize 1 artboard in runtime. See example, BP_SingleArtboard for complete bl
 >![Record_2024_03_05_11_39_41_826](https://github.com/rive-app/rive-unreal/assets/149646824/b9b2dc87-53e4-401d-a01e-a7d015560479)
 
 2. Listen to reported events in UE 
->![image](https://github.com/rive-app/rive-unreal/assets/149646824/587bcd82-7f68-4a13-ae45-a81229cdba90)
+>![image](https://github.com/rive-app/rive-unreal/assets/149646824/05f2310b-bb0d-433c-b748-76d9369e7f41)
 
->![image](https://github.com/rive-app/rive-unreal/assets/149646824/b56159db-ee25-4e85-b8cb-3c6f35b76054)
+>![image](https://github.com/rive-app/rive-unreal/assets/149646824/feb07fa8-9dc1-40b2-9578-56db24ff9c40)
 
 
 - ## UE 3D widget User Input interaction 
@@ -111,6 +111,11 @@ Initialize 1 artboard in runtime. See example, BP_SingleArtboard for complete bl
 1. Create Inputs in Rive Editor
 >![image](https://github.com/rive-app/rive-unreal/assets/149646824/c9544f23-45c2-483b-9db4-9e50291720ba)
 2. Create Blueprint Set Bool Value/Set Number Value/ Fire Trigger
->![image](https://github.com/rive-app/rive-unreal/assets/149646824/774a2e10-24c8-416d-a005-64f1e861b272)
->![image](https://github.com/rive-app/rive-unreal/assets/149646824/6eba4e39-d378-463f-b7c2-7d2798eb7ff7)
->![image](https://github.com/rive-app/rive-unreal/assets/149646824/e9523552-87ec-41c0-b698-d728eeacc440)
+>
+![image](https://github.com/rive-app/rive-unreal/assets/149646824/46c7d670-211f-4f4d-a4b1-0e4e3b7c0342)
+
+>![image](https://github.com/rive-app/rive-unreal/assets/149646824/1408f917-4f25-4fd0-a4dc-e0aec9ae32cf)
+
+>![image](https://github.com/rive-app/rive-unreal/assets/149646824/82845c93-0583-4f5c-b248-ad561976bd42)
+
+
