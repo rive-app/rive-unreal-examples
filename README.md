@@ -12,10 +12,26 @@ https://github.com/rive-app/rive-unreal/assets/6189196/a49b8e46-df98-4432-b942-a
 - Download the release from GitHub https://github.com/rive-app/rive-unreal/releases/tag/0.1.0.
 - Install UE 5.3 - [Epic Games Launcher.](https://store.epicgames.com/en-US/download)
 - Install Visual Studio for Windows [Visual Studio Guide](https://docs.unrealengine.com/5.3/en-US/setting-up-visual-studio-development-environment-for-cplusplus-projects-in-unreal-engine/) or Xcode for Mac.
-- If you are using Windows, you would need to set the RHI interface to use DX11
+> **💡 _If you are using Windows, you would need to set the RHI interface to use DX11_**
 >![image](https://github.com/Geodesic-Games/rive-unreal-examples/assets/149646824/7ddc2b13-db06-49fa-bf4f-29e22fea53ab)
   
-- If you are making an Android Build, make sure using OpenGL instead of Vulcan.
+> **💡 _If you are making an Android Build, make sure using OpenGL instead of Vulcan._**
+- Open the project and play the DemoRoom game.
+`/Content/Rive/DemoRoom.umap`
+>![image](https://github.com/rive-app/rive-unreal/assets/149646824/321e3a50-8485-4f25-bd73-7dbe03e9a0ba)
+
+- DemoRoom input control
+
+| Keybind | Explanation |
+| --------- | ------------ |
+| Mouse XY 2D-Axis | Look |
+| W | Move Forward | 
+| A | Move Left |
+| S | Move Backward |
+| D | Move Right |
+| Space | Jump |
+| Shift | Speed Up |
+| Esc | Exit Game |
 
 # b. How to use Rive in Unreal Engine
 - ## Import .riv assets into Unreal Engine
@@ -117,5 +133,6 @@ Initialize 1 artboard in runtime. See example, BP_SingleArtboard for complete bl
 >![image](https://github.com/rive-app/rive-unreal/assets/149646824/1408f917-4f25-4fd0-a4dc-e0aec9ae32cf)
 
 >![image](https://github.com/rive-app/rive-unreal/assets/149646824/82845c93-0583-4f5c-b248-ad561976bd42)
+
 
 
