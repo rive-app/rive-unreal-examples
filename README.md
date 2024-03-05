@@ -66,7 +66,7 @@ https://github.com/rive-app/rive-unreal/assets/6189196/a49b8e46-df98-4432-b942-a
 
 
 - ## Adjust Rive File Properties 
-You can manipulate Rive File settings with the following properties.
+You can adjust settings of a Rive file using the following properties.
 
 > - `Artboard Name`
 > - `State Machine Name`
@@ -133,6 +133,7 @@ Initialize 1 artboard in runtime. See example, BP_SingleArtboard for complete bl
 >![image](https://github.com/rive-app/rive-unreal/assets/149646824/1408f917-4f25-4fd0-a4dc-e0aec9ae32cf)
 
 >![image](https://github.com/rive-app/rive-unreal/assets/149646824/82845c93-0583-4f5c-b248-ad561976bd42)
+
 
 
 
