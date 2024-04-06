@@ -28,7 +28,7 @@ void UUMGRive::NativeOnInitialized()
 		WidgetTree->RootWidget = SafeZone;
 		
 		// ==== RIVE ====
-		// URiveWidget is a Widget Component. We can assign a Rive File Asset to it.
+		// Create the RiveWidget
 		RiveWidgetComponent = WidgetTree->ConstructWidget<URiveWidget>(URiveWidget::StaticClass(), TEXT("Rive Widget"));
 
 		SafeZone->AddChild(RiveWidgetComponent);
