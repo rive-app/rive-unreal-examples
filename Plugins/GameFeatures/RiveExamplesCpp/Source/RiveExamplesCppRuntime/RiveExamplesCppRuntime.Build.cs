@@ -39,6 +39,7 @@ public class RiveExamplesCppRuntime : ModuleRules
 				"Slate",
 				"SlateCore",
 				"Rive",
+				"RiveCore",
 				"UMG",
 				// ... add private dependencies that you statically link with here ...	
 			}
