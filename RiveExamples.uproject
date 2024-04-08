@@ -29,6 +29,14 @@
 		{
 			"Name": "ColorCorrectRegions",
 			"Enabled": true
+		},
+		{
+			"Name": "GameFeatures",
+			"Enabled": true
+		},
+		{
+			"Name": "RiveExamplesCpp",
+			"Enabled": true
 		}
 	]
 }
