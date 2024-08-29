@@ -13,7 +13,6 @@ https://github.com/rive-app/rive-unreal/assets/6189196/a49b8e46-df98-4432-b942-a
 - Install UE 5.3 - [Epic Games Launcher.](https://store.epicgames.com/en-US/download)
 - Install Visual Studio for Windows [Visual Studio Guide](https://docs.unrealengine.com/5.3/en-US/setting-up-visual-studio-development-environment-for-cplusplus-projects-in-unreal-engine/) or Xcode for Mac.
 > **💡 _If you are using Windows, you would need to set the RHI interface to use DX11_**
->![image](https://github.com/Geodesic-Games/rive-unreal-examples/assets/149646824/7ddc2b13-db06-49fa-bf4f-29e22fea53ab)
   
 > **💡 _If you are making an Android Build, make sure using OpenGL instead of Vulcan._**
 - Open the project and play the DemoRoom game.
