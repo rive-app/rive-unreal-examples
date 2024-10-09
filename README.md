@@ -1,3 +1,4 @@
+# NOTE: This repository uses a deprecated version of the Rive Unreal plugin. It is being kept visibile for those using old versions of the plugin. The [rive-unreal-demos](https://github.com/rive-app/rive-unreal-demos) repository contains examples using the newer Rive Unreal plugin and API.
 
 Clone the project.
 ```
